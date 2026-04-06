@@ -137,3 +137,11 @@ users/{userId}
 - **Backend:** Firebase (Auth, Firestore, Storage)
 - **Charts:** FL Chart
 - **Authentication:** Firebase Auth + Google Sign-In
+
+## 📱 Screenshots
+
+<img width="937" height="847" alt="add-transaction" src="https://github.com/user-attachments/assets/b02e7143-b516-4822-a75f-18d6515474e0" />
+<img width="916" height="860" alt="budgets" src="https://github.com/user-attachments/assets/7bee910b-372c-4468-901a-3e8aed5011ae" />
+<img width="925" height="852" alt="dashboard" src="https://github.com/user-attachments/assets/492683f8-285f-41e4-aeb9-38243d89e60f" />
+<img width="534" height="495" alt="Screenshot 2026-04-06 110730" src="https://github.com/user-attachments/assets/f6024567-3187-4609-837b-fe25df3e5d59" />
+
